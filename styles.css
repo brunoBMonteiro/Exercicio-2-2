@@ -73,3 +73,20 @@ main ul li {
     font-weight: 500;
     color: white;
 }
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    border-bottom: 1px solid white;
+    color: white;
+    font-size: 19px;
+    text-decoration: none;
+    padding: 10px 20px 4px;
+}
+
+footer a:hover {
+    transition: color 200ms;
+    color: #50fa7b;
+}
